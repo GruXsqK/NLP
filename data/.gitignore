@@ -1,3 +1,4 @@
 *.csv
 /api_token.txt
-/nlp-bot-df-jmyl-63214f5d01e9.json
+*.json
+*.pkl
