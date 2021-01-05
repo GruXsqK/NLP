@@ -1,2 +1,4 @@
 *.csv
+/api_token.txt
+*.json
 *.pkl
